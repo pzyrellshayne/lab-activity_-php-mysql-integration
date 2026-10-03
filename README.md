@@ -1,4 +1,4 @@
-# CICS-SC Management System (simple version)
+# CICS-SC Management System
 
 A simple PHP + MySQL web app for the Student Council. It manages two things: the **schedule** of events and the **files** (documents) of the council. The calendar shows the same events in a monthly view. Each part has full CRUD (create, read, update, delete), and a file can be linked to an event.
 
